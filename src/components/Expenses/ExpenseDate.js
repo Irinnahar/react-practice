@@ -1,3 +1,5 @@
+import React from 'react';
+
 import Card from '../Shared/Card';
 import './ExpenseDate.css';
 
